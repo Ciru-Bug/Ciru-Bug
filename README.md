@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on a roguelike.
+- 📫 How to reach me: cirubug on discord.
+- 💬 Ask me about my game! I love talking about my projects.
 
 <!--
 **Ciru-Bug/Ciru-Bug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
